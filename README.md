@@ -1,5 +1,5 @@
 Topic | Tool / Skill
-:---|---:
+:---|:---
 Languages | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![R Badge](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 Web / Cloud | ![Flask Badge](https://img.shields.io/badge/-Flask-F7DF1E?style=flat&logo=flask&logoColor=white) ![FastAPI Badge](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![ECS Badge](https://img.shields.io/badge/-ECS-ff9900?style=flat&logo=amazonaws&logoColor=white) ![Lambda Badge](https://img.shields.io/badge/-Lambda-146eb4?style=flat&logo=amazonaws&logoColor=white) ![RabbitMQ Badge](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 Python | ![NumPy Badge](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas Badge](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Dash Badge](https://img.shields.io/badge/-Dash-3F4F75?style=flat&logo=plotly&logoColor=white) ![Dask Badge](https://img.shields.io/badge/-Dask-c94832?style=flat&logo=python&logoColor=white) ![Pytest Badge](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
