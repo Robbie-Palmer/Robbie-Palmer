@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Software that sees, reacts, and improves</title>
+  <desc id="description">A dark banner with orange, pink, purple, and cyan data streams joining a connected system.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090d1d"/>
+      <stop offset="0.55" stop-color="#11152c"/>
+      <stop offset="1" stop-color="#15102b"/>
+    </linearGradient>
+    <linearGradient id="headline" x1="70" y1="60" x2="650" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f8fafc"/>
+      <stop offset="0.55" stop-color="#e0e7ff"/>
+      <stop offset="1" stop-color="#c4b5fd"/>
+    </linearGradient>
+    <linearGradient id="stream" x1="690" y1="55" x2="1130" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f97316"/>
+      <stop offset="0.34" stop-color="#ec4899"/>
+      <stop offset="0.67" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#8b5cf6" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity="0.07"/>
+    </pattern>
+    <filter id="soft-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="frame">
+      <rect width="1200" height="300" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="url(#background)"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <circle cx="995" cy="145" r="250" fill="url(#glow)"/>
+    <circle cx="80" cy="300" r="170" fill="#06b6d4" fill-opacity="0.08"/>
+
+    <g fill="none" stroke-linecap="round">
+      <path d="M705 70C805 70 805 135 900 135S1015 92 1130 92" stroke="#f97316" stroke-width="4" stroke-opacity="0.9"/>
+      <path d="M680 118C780 118 805 150 900 150S1010 150 1155 150" stroke="#ec4899" stroke-width="4" stroke-opacity="0.82"/>
+      <path d="M700 220C800 220 815 165 900 165S1015 208 1135 208" stroke="#8b5cf6" stroke-width="4" stroke-opacity="0.9"/>
+      <path d="M755 260C835 260 845 180 910 180S1010 250 1105 250" stroke="#06b6d4" stroke-width="4" stroke-opacity="0.82"/>
+      <circle cx="900" cy="158" r="63" stroke="url(#stream)" stroke-width="2" stroke-opacity="0.55"/>
+      <circle cx="900" cy="158" r="91" stroke="#c4b5fd" stroke-width="1" stroke-opacity="0.18"/>
+    </g>
+
+    <g filter="url(#soft-glow)">
+      <circle cx="705" cy="70" r="7" fill="#f97316"/>
+      <circle cx="680" cy="118" r="7" fill="#ec4899"/>
+      <circle cx="700" cy="220" r="7" fill="#8b5cf6"/>
+      <circle cx="755" cy="260" r="7" fill="#06b6d4"/>
+      <circle cx="900" cy="158" r="14" fill="#f8fafc"/>
+      <circle cx="1130" cy="92" r="7" fill="#f97316"/>
+      <circle cx="1155" cy="150" r="7" fill="#ec4899"/>
+      <circle cx="1135" cy="208" r="7" fill="#8b5cf6"/>
+      <circle cx="1105" cy="250" r="7" fill="#06b6d4"/>
+    </g>
+
+    <text x="68" y="105" fill="url(#headline)" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="50" font-weight="750" letter-spacing="-1.5">
+      Software that sees,
+    </text>
+    <text x="68" y="165" fill="url(#headline)" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="50" font-weight="750" letter-spacing="-1.5">
+      reacts, and improves.
+    </text>
+    <text x="70" y="218" fill="#94a3b8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="21" font-weight="500" letter-spacing="0.4">
+      Production ML  ·  real-time systems  ·  agentic engineering
+    </text>
+  </g>
+  <rect x="1" y="1" width="1198" height="298" rx="23" fill="none" stroke="url(#stream)" stroke-width="2" stroke-opacity="0.7"/>
+</svg>

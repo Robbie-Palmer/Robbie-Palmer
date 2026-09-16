@@ -1,5 +1,7 @@
 # Robbie Palmer
 
+![Software that sees, reacts, and improves](assets/profile-banner.svg)
+
 I'm a Principal Software Engineer and Engineering Manager in Belfast. For the
 past ten years, I've built production software across machine learning,
 computer vision, data streaming, and developer infrastructure.
