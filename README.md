@@ -1,16 +1,53 @@
-## About Me
+# Robbie Palmer
 
-Full-stack ML Engineer with 8+ years of experience in production ML systems. Currently focused on LLM integration, model deployment, and real-time video/image processing, with emphasis on observability, test-driven development, and scalable infrastructure. I build high-velocity teams through clear processes and strong ownership culture.
+I'm a Principal Software Engineer and Engineering Manager in Belfast. For the
+past ten years, I've built production software across machine learning,
+computer vision, data streaming, and developer infrastructure.
 
-🌐 [robbiepalmer.me](https://robbiepalmer.me) | [LinkedIn](https://www.linkedin.com/in/robertjohnpalmer/)
+My current bet is that coding agents have made producing software cheap, while
+the systems around them have not caught up. I'm building those missing parts in
+public and testing them on products I actually use.
 
----
+[Website](https://robbiepalmer.me) ·
+[Experience](https://robbiepalmer.me/experience) ·
+[LinkedIn](https://www.linkedin.com/in/robertjohnpalmer/)
 
-Topic | Tool / Skill
-:---|:---
-Languages | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white) ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white)
-Backend & APIs | ![FastAPI Badge](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Pydantic Badge](https://img.shields.io/badge/-Pydantic-E92063?style=flat&logo=pydantic&logoColor=white) ![httpx Badge](https://img.shields.io/badge/-httpx-6B48C5?style=flat&logo=python&logoColor=white) ![SQLAlchemy Badge](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white) ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Pytest Badge](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white) ![Testcontainers Badge](https://img.shields.io/badge/-Testcontainers-2496ED?style=flat&logo=docker&logoColor=white) ![Fastify Badge](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white) ![Prisma Badge](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-ML Engineering | ![PyTorch Badge](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![scikit-learn Badge](https://img.shields.io/badge/-sklearn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![DVC Badge](https://img.shields.io/badge/-DVC-945DD6?style=flat&logo=dataversioncontrol&logoColor=white) ![TensorRT Badge](https://img.shields.io/badge/-TensorRT-76B900?style=flat&logo=nvidia&logoColor=white) ![Hugging Face Badge](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black) ![spaCy Badge](https://img.shields.io/badge/-spaCy-09A3D5?style=flat&logo=spacy&logoColor=white) ![OpenAI Badge](https://img.shields.io/badge/-OpenRouter-412991?style=flat&logo=openai&logoColor=white) ![Weaviate Badge](https://img.shields.io/badge/-Weaviate-00C853?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkw0IDdWMTdMMTIgMjJMMjAgMTdWN0wxMiAyWiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==&logoColor=white)
-Data Engineering | ![NumPy Badge](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas Badge](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![OpenCV Badge](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![scikit-image Badge](https://img.shields.io/badge/-SKImage-92c756?style=flat&logo=scikitlearn&logoColor=white) ![Kafka Badge](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![Dash Badge](https://img.shields.io/badge/-Dash-3F4F75?style=flat&logo=plotly&logoColor=white) ![Dask Badge](https://img.shields.io/badge/-Dask-FDA061?style=flat&logo=dask&logoColor=white) ![Shapely Badge](https://img.shields.io/badge/-Shapely-6AB187?style=flat&logo=python&logoColor=white) ![GeoPandas Badge](https://img.shields.io/badge/-GeoPandas-009c5d?style=flat&logo=pandas&logoColor=white) ![Leaflet Badge](https://img.shields.io/badge/-Leaflet-199900?style=flat&logo=leaflet&logoColor=white) ![BigQuery Badge](https://img.shields.io/badge/-BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white) ![FFmpeg Badge](https://img.shields.io/badge/-FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white) ![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Labelbox Badge](https://img.shields.io/badge/-Labelbox-0D0F35?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTIgMkw0IDZWMTJMMTIgMjJMMjAgMTJWNkwxMiAyWiIvPjwvc3ZnPg==&logoColor=white) ![Encord Badge](https://img.shields.io/badge/-Encord-7B42F6?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTIgMkw0IDZWMTJMMTIgMjJMMjAgMTJWNkwxMiAyWiIvPjwvc3ZnPg==&logoColor=white)
-Observability | ![Grafana Badge](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![Prometheus Badge](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Tempo Badge](https://img.shields.io/badge/-Tempo-F46800?style=flat&logo=grafana&logoColor=white) ![Loki Badge](https://img.shields.io/badge/-Loki-F46800?style=flat&logo=grafana&logoColor=white) ![OpenTelemetry Badge](https://img.shields.io/badge/-OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
-Cloud & Infrastructure | ![Terraform Badge](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![GitHub Actions Badge](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Cloudflare Badge](https://img.shields.io/badge/-Cloudflare%20Workers-F38020?style=flat&logo=cloudflare&logoColor=white) ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://custom-icon-badges.demolab.com/badge/ECS%2C%20Lambda%2C%20S3%2C%20SNS%2FSQS-%23FF9900.svg?logo=aws&logoColor=white) ![GCP](https://custom-icon-badges.demolab.com/badge/Document%20AI-%234285F4.svg?logo=gcp&logoColor=white)
+## What I'm betting on
+
+- [Work Graph](https://robbiepalmer.me/projects/work-graph) replaces the flat
+  project board with a dependency graph that people and agents can share. It
+  tracks priority, leases, blockers, evidence, and requests for human judgment.
+- [Agent-friendly Remote Development](https://robbiepalmer.me/projects/agent-friendly-remote-development)
+  gives each developer a persistent private workspace where coding agents keep
+  working across devices and disconnections.
+- [Agent-first Writing Editor](https://robbiepalmer.me/projects/agent-first-writing)
+  turns raw agent output into prose people can absorb without sanding away the
+  author's voice.
+
+Together, these projects are my attempt at
+[semi-autonomous software development](https://robbiepalmer.me/initiatives/semi-autonomous-software-development):
+people set direction and own risk; agents keep useful work moving and ask for
+judgment when it matters.
+
+## Things I've shipped
+
+- [Agentic Code Review](https://robbiepalmer.me/projects/agentic-code-review), a
+  stateful, model-agnostic GitHub App that runs multi-model reviews and learns
+  from accepted and rejected findings.
+- [Recipe Site](https://robbiepalmer.me/recipes), a Cooklang recipe collection
+  with photo and URL import, private recipes, pantry-aware shopping lists, and
+  guided cooking.
+- [Asset Tracker](https://robbiepalmer.me/assettracker), a local-first personal
+  finance tool for holdings, allocations, and long-term targets.
+- [Autonomic Satellite Swarm](https://robbiepalmer.me/satellite-swarm), a C++
+  and WebAssembly simulation of self-managing satellite formations.
+
+The products, infrastructure, decision records, and experiments live together
+in [`Robbie-Palmer/hq`](https://github.com/Robbie-Palmer/hq).
+
+## Recent writing
+
+- [Crossing the Chasm with AI Platform Teams](https://robbiepalmer.me/blog/2026-08-18-crossing-the-chasm-with-ai-platform-teams)
+  argues that teams cannot wait for the agentic tooling market to settle. The
+  temporary platform work is worth doing now, even when better commodity tools
+  will eventually replace it.
