@@ -12,6 +12,27 @@ public and testing them on products I actually use.
 [Experience](https://robbiepalmer.me/experience) ·
 [LinkedIn](https://www.linkedin.com/in/robertjohnpalmer/)
 
+## What I'm building at Terminal
+
+At [Terminal Industries](https://terminal-industries.com/), I work on the
+[Digital Twin of the Yard](https://robbiepalmer.me/initiatives/digital-twin-of-the-yard),
+a live model that joins yard activity, operational records, and shipping
+documents. My role crosses product engineering, applied ML, distributed
+systems, infrastructure, and engineering leadership.
+
+- [Real-Time Multi-Camera Video Analytics](https://robbiepalmer.me/projects/real-time-multi-camera-video-analytics)
+  combines detections and identifiers across cameras into an operational view
+  within seconds. My work covers the Kafka event plane, cross-camera fusion,
+  cloud infrastructure, observability, analytics, and technical leadership.
+- [Mobile Asset Identification](https://robbiepalmer.me/projects/mobile-asset-identification)
+  turns a phone photo and its location into a yard check-in, check-out, or
+  inventory record. I built the labelled dataset, evaluation benchmark, image
+  analysis service, and AWS infrastructure.
+- [Intelligent Document Processing](https://robbiepalmer.me/projects/intelligent-document-processing)
+  turns photographed bills of lading into structured shipment data for gate
+  verification. I owned the research, domain model, dataset, evaluation, and
+  production integration.
+
 ## What I'm betting on
 
 - [Work Graph](https://robbiepalmer.me/projects/work-graph) replaces the flat
